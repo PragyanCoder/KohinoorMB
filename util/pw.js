@@ -1,7 +1,7 @@
 const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
-const version = "Latest@ v1.0"; 
+const botName = "💎 Kohinoor Music";
+const Text = "VasudevKrishnaX";
+const version = "Latest@ v143.143"; 
 const startTime = Date.now();
 
 function printWatermark() {
